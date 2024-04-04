@@ -16,3 +16,6 @@ At first, I could not get my Map to load properly, I spent a lot of time trouble
 I was unable to get the colors to show properly on the legend. 
 
 This project was a good challenge and javascript is a very interesting language. 
+
+Source: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
